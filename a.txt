@@ -7,3 +7,4 @@ Unstable changes:
 	- This turned out to be a pretty stable feature, moving on...
 	- Gonna commit this to develop and afterwards to a new release!
 	- After I work on more stuff, of course..
+	- Added new feature here: a new line.. very original!
