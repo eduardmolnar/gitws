@@ -4,6 +4,6 @@ Branching test
 
 Unstable changes:
 - Try out something very risky
-	- This is a change for develop branch only!
-	- It shouldn't be pushed to main yet, it's not stable
-	- UNSTABLE, again
+	- This turned out to be a pretty stable feature, moving on...
+	- Gonna commit this to develop and afterwards to a new release!
+	- After I work on more stuff, of course..
