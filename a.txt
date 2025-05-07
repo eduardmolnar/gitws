@@ -1,9 +1,7 @@
-This is file a.txt
+This is a.txt file.
 
-Branching test
-
-Unstable changes:
-- Try out something very risky
+Stable (now) changes:
+- Try out something very risky...
 	- This turned out to be a pretty stable feature, moving on...
 	- Gonna commit this to develop and afterwards to a new release!
 	- After I work on more stuff, of course..
