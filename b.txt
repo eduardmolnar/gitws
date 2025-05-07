@@ -2,3 +2,6 @@ This is b.txt file
 
 Again for testing purposes
 This is a feature so it's supposed to be on a feature branch of its own
+
+More work on b.txt here...
+This is part of another commit now.
