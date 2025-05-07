@@ -1,0 +1,5 @@
+version goes here:
+--> 
+
+This is the version file for this "project". Increment on every release.
+NOTE: This is empty on first release, since the version number is supposed to be updated only on release branches.
