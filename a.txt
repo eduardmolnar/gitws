@@ -6,4 +6,6 @@ Unstable changes:
 - Try out something very risky
 	- This is a change for develop branch only!
 	- It shouldn't be pushed to main yet, it's not stable
+	- Added new feature here: a new line.. very original!
+	- I think this will create a merge conflict though...
 	- UNSTABLE, again
