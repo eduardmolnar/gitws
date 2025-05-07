@@ -1,10 +1,10 @@
-This is b.txt file
+This is the b.txt file.
 
-Again for testing purposes
-This is a feature so it's supposed to be on a feature branch of its own
+Again for testing purposes.
+This is a new feature so it's supposed to be on a branch of its own.
 
 More work on b.txt here...
-This is part of another commit now.
+This is now part of another commit.
 
-Even more work! Make more commits for testing...
+Even more work! Make even more commits for testing...
 More text here as part of a feature.
