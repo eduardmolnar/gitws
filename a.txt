@@ -8,3 +8,10 @@ Unstable changes:
 	- Gonna commit this to develop and afterwards to a new release!
 	- After I work on more stuff, of course..
 	- Added new feature here: a new line.. very original!
+
+A new section over here:
+- More cool stuff exclusively develop branch!
+	- Well, until we merge it into a release branch...
+	- Afterwards, it will sit there without any new, cool features.
+	- Only bugs will be hunted and fixed!
+	- After we'll make the release, we'll need to merge back any bugfixes into the develop tree.
